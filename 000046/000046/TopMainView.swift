@@ -21,7 +21,7 @@ extension TopMainViewDelegate {
 class TopMainView: BaseView {
     weak var delegate: TopMainViewDelegate? = nil
     @IBOutlet weak var tableVIew: UITableView!
-    var labelNum: [String] = ["1","2","3","4","5","6","7",]
+    var labelNum: [String] = ["1","2","3","4","5","6","77",]
 }
 
 // MARK: - Life cycle
